@@ -19,7 +19,6 @@
 
 ## 📫 Connect with me
 
-- [GitHub](https://github.com/Byells)
 - [LinkedIn](https://www.linkedin.com/in/gabriel-lima-silvaa)
 
 ---
