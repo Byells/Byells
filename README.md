@@ -12,6 +12,7 @@
 - SQL
 - Cloud
 - React / React Native
+- Git / GitHub
 
 🌱 Always curious and eager to learn new technologies!
 
